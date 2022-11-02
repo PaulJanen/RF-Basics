@@ -1,2 +1,2 @@
 # RF-Basics
-Testing basic RF theory in depth
+Testing RF theory in depth
